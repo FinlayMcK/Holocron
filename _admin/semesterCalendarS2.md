@@ -11,7 +11,7 @@ tags:
 N/A
 
 #### School Events - Week 3
-N/A
+**Thursday** - Ryan out of school.
 
 #### School Events - Week 4
 **Monday Afternoon** - Ryan out of school 
@@ -29,7 +29,9 @@ N/A
 **Wednesday** - AST Exams.
 
 #### School Events - Week 8
-**Thursday** - Cross Line Exams.
+**Tuesday** - Ryan out of school.
+**Wednesday** - Ryan out of school.
+**Thursday** - Ryan out of school & Cross Line Exams.
 **Friday** - Cross Line Exams.
 
 #### School Events - Week 9
