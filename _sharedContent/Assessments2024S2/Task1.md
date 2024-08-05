@@ -26,7 +26,6 @@ Keep in mind the word limit.
 > 
 > -  Focus on the safety aspects. Why spend time developing the tools? 
 > -  Use data from the sources provided. Add to it from other sources as well.
-> - Refer to real-life cyber security breaches.
 > - Write the talking points last. That's a summary of the main points.
 > - The *Talking Points* section can be written as dot points. However the remainder of the document should be paragraphed.
 
@@ -37,7 +36,8 @@ Keep in mind the word limit.
 > - Write the talking points last. That's a summary of the main points.
 > - If you can put the information into a graphic (image, graph etc), do it.
 > - Refer to skills learned in class that could be learned (or expanded upon) in the proposed cyber skills centre.
-> - The *Talking Points* section can be written as dot points. However the remainder of the document should be paragraphed.
+> - Refer to real-life cyber security breaches.
+> - The *Talking Points* section can be written as dot points. However, the remainder of the document should be paragraphed.
 
 
 > [!tip]- 11 Cyber Skills, ICT
