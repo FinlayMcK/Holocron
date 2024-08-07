@@ -584,3 +584,4 @@ One such method would be to use bootstrap's [cards](https://getbootstrap.com/doc
 ![resumeDisplayCardExample](/WebDev/_shared/Projects/ANH/images/resumeDisplayCardExample.png)
 
 
+![resumeDisplayCardExample2](/WebDev/_shared/Projects/ANH/images/resumeDisplayCardExample2.png)
