@@ -55,11 +55,11 @@ Keep in mind the word limit.
 
 **Research, Research, Research!** Any claim you make in the report needs to be backed up with a reference. Do you discuss the sales figures for 2024? Reference! You say "PHP is better than Python for website development"? Reference! You mention that the sky is blue? Reference!
 
-The rule of thumb for academic reports: Don't state a fact without references.
+The rule of thumb for academic reports: Only state a fact with references.
 
 **Style of writing**. This is a technical document. Do not write an essay. Keep to facts. And be technical.
 
-**Evidence** Tables of data, appendices, Biblography should be included as necessary, but are not counted towards word limit.
+**Evidence** Tables of data, appendices, and Bibliography should be included as necessary, but are not counted towards the word limit.
 
 **Audience** Keep in mind the intended audience of the report. 
 

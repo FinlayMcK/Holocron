@@ -31,7 +31,7 @@ Submissions are due **11:59pm Friday** each week.
 - [ ] [Clone Holocron](/_sharedContent/CloneHolocron.md)
 
 #### Theory
-- [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
+- [ ] [Week 1 Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
 - [ ] [Flask Vs Django](/WebDev/2-Digital-Applications/_topics/FlaskVsDjango.md)
 
 #### Practical
@@ -90,7 +90,7 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek04.md)
 #### Practical
-N/A
+- [ ] [resumeBuilder](/WebDev/_shared/Projects/ANH/resumeBuilder.md)
 
 ### Week 5
  ![[semesterCalendarS2#School Events - Week 5]]
