@@ -268,7 +268,7 @@ Create a new table to store data for each referee.
 
 | Field          | Data Type                            | Purpose                 |
 | -------------- | ------------------------------------ | ----------------------- |
-| id             | INTEGER, auto increment, primary key | Unique idenfier         |
+| id             | INTEGER, auto increment, primary key | Unique identifier       |
 | name           | TEXT                                 | Referee's name          |
 | contact_number | TEXT                                 | Referee's phone number  |
 | email_address  | TEXT                                 | Referee's email address |
