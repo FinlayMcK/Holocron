@@ -66,6 +66,26 @@ gantt
 	3. Install Visual Studio Code 
 
 	```terminal
-	sudo apt install code
+	sudo apt install code -y
 	```
-	
+
+	4. Install MariaDB Server
+
+	```terminal
+	sudo apt install mariadb-server -y
+	```
+
+- Configuration
+
+	1. Install VSCode extensions
+		- Database Client JDBC
+		- MySQL
+		- SQL Tools
+
+	2. MariaDB Setup
+		- Access MariaDB via the terminal
+		```
+		//With root access
+		
+		mysql
+		```
