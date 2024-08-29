@@ -3029,7 +3029,7 @@ settings:
   --text-selection: rgba(var(--ctp-accent), 0.25);
   --interactive-accent: rgb(var(--ctp-accent));
   --interactive-accent-hover: rgba(var(--ctp-accent), 0.9);
-  --text-accent: rgb(var(--ctp-accent));
+  --accent: rgb(var(--ctp-accent));
   --text-accent-hover: rgb(var(--ctp-accent));
   --text-highlight-bg: rgba(var(--ctp-accent), 0.4);
   --text-highlight-bg-active: rgba(var(--ctp-accent), 0.6);

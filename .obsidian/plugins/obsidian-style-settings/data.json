@@ -62,5 +62,10 @@
   "Components@@colorful-folder": false,
   "Components@@tab-autohide": false,
   "Components@@status-bar-autohide": false,
-  "Components@@outline-enhanced": false
+  "Components@@outline-enhanced": false,
+  "chiaroscuro-flow@@background-secondary-dark": "#000000",
+  "chiaroscuro-flow@@background-primary-dark": "#000000",
+  "chiaroscuro-flow@@text-normal-dark": "#000000",
+  "anuppuccin-theme-settings@@anp-status-bar-select": "none",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false
 }
