@@ -50,7 +50,7 @@ gantt
 	We Chose
 	
 - OS Installation
-	1. Insert Micro SD card into the dedicated slot on the Raspbeerry Pi 400
+	1. Insert Micro SD card into the dedicated slot on the Raspberry Pi 400
 	2. Power on the Pi and 
 
 ## Software 
@@ -84,8 +84,17 @@ gantt
 
 	2. MariaDB Setup
 		- Access MariaDB via the terminal
+
 		```
 		//With root access
 		
 		mysql
+		```
+	
+		- Create new user and grant admin privileges
+
+		```terminal
+		CREATE USER 'Main@%' IDENTIFIED BY 'pass';
+
+		GRANT ALL PRIVELEGES ON * . * TO 'Main@%';
 		```
