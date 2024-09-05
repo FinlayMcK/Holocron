@@ -36,12 +36,13 @@ N/A
 
 #### School Events - Week 9
 **Monday** - Q4 Commences.
+**Wednesday** - Ryan offsite.
 
 #### School Events - Week 10
 
 **Wednesday** - Breakout Week. Ryan offsite.
 **Thursday** - Breakout Week. Ryan offsite.
-**Friday** - Breakout Week. Ryan offsite.
+**Friday** - Normal School Day. Ryan offsite (pending)
 
 #### School Events - Week 11
 **Monday** - Student Free Day.

@@ -69,7 +69,7 @@ tags:
 > [!info]- Week 7
 > ![[semesterCalendarS2#School Events - Week 7]]
 > #### Class Tasks
-> N/A
+> -  [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
