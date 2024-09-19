@@ -1,4 +1,3 @@
-
 > [!important] View the assessment on Google Classroom for specific details.
 
 # Technical Report

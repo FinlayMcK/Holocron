@@ -160,7 +160,7 @@ tags:
 
 > [!danger]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
-> 
+> - [ ] [Assessment 2 - 2024S2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md)
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.

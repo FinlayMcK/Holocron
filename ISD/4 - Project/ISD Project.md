@@ -143,7 +143,8 @@ Section 1 should be completed by end of week 8
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> N/A
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -151,7 +152,8 @@ Section 1 should be completed by end of week 8
 
 > [!danger]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
-> 
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.

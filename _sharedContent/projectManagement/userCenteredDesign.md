@@ -39,7 +39,7 @@ Decide who will be using your product. Using the supplied Persona template, crea
 
 You can find more information regarding personas here.
 
-[Personas](../Design%206dd970530a3f4a668fb5adcecdfac517/Personas%20df985936e12e47779ba7030e2e3eb5f6.md) 
+[Personas](_sharedContent/Personas.md)
 
 ### Define the Scope
 

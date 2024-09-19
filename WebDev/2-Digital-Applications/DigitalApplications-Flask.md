@@ -187,7 +187,7 @@ N/A
 ### Week 11
  ![[semesterCalendarS2#School Events - Week 11]]
 #### Class Tasks
-- [ ] [assessment2-2024S2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek11.md)
 #### Practical
@@ -201,7 +201,7 @@ The task will be due Friday 11:59pm.
 Worth 50%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
-- [ ] [assessment2-2024S2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
  - [ ] Submit Assessment 2
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)

@@ -20,8 +20,6 @@ These are the details you are to cover in the topics in Assessment 2. More Speci
 
 ![[_sharedContent/Assessments2024S2/Task 2#Development Process|Task 2]]
 
-
-
 ![[_sharedContent/Assessments2024S2/Task 2#Technical Analysis|Task 2]]
 
 

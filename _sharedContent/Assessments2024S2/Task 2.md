@@ -43,16 +43,29 @@ Focus on how data is transmitted within the project from one sub-system to anoth
 
 ## Development Process
 
-- Brief 2-4 sentence summary for each week of what that week of development involved
-	- What did you add to the Project?
-	- How does your addition fit into the grand scheme of the project?
-	- What new skills were required to make these additions?
-	- Explain how previous learning and work contributed to your ability to complete this week or work.
-<strong>Screenshots as evidence is always good</strong>
-Remember this entire section is meant to amount to around 1000 words so if you have 10 weeks worth of development process those summaries either need to be combined or need to be ~100 words each.
-This weekly summary may not work depending on your project. It may be worthwhile to use this scaffold to put into words what was done to complete the project. However, you may want to reorder or combine sections depending on how it will be best displayed. 
+This section should outline steps taken to complete the project in its entirety. While it doesn't need to be written in the order it was completed it can be helpful to think of it in this way:
+- How were the steps of development implemented:
+	- How were new additions created and implemented in the project
+	- How do new additions fit into the grand scheme of the project?
+	- How do new additions iterate on the project?
+	- How did you test to make sure that these changes were implemented correctly?
+	- Evaluate how this addition was implemented against other potential methodologies.
 
+This should outline HOW the components of the project were developed and implemented. While it is helpful to think about how each step was individually created it is better to show a consistent and effective creation process.
 
+Consider how changes and additions iterate on the project. The development process describes how all of the pieces of the project were created and how they come together to create the whole.
+
+***Don't analyse the code as there is a section where you will show your ability to analyse code.***
+
+The use of screenshots and diagrams is highly encouraged in order to show how the components of the project come together and how testing was done. For example you could include a diagram that illustrates how you new additions were implemented. You could also include screenshots of what the product (games, website, etc.) looks like after an example of implementation.
+
+As an example this kind of description is a bare minimum starting point but it utilises a flow chart diagram of the development process very well:
+![assessmentExampleDevProcess](/_sharedContent/_images/assessmentExampleDevProcess.png)
+If I was providing feedback on this development process I would be advising the student to include an example of how this process was applied in the creation of their project and asking for them to reflect upon alternative implementation tools/processes.
+
+Once you have identified, described, and explained how the development process works in your project, choose and analyse how this process was used to create a component or two of your project.
+
+Top level reports will evaluate the development process that was used against other potential alternatives (other coding languages, other auxiliary tools, other testing methods, other organisational structures, etc.)
 
 ## Technical Analysis
 
