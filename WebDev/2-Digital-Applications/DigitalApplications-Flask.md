@@ -174,11 +174,20 @@ N/A
 - [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
 
 ### Week 10
- ![[semesterCalendarS2#School Events - Week 10]]
+ ![[semesterCalendarS2#School Events - Week 10]]  
+
+#### Videos
+
+![Week 10 Assessment](https://youtu.be/QaOL-fNrj3o)
+
+![Week 10 VET](https://youtu.be/Q2w5G7AqeYE)
+
+
+
 #### Class Tasks
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
 #### Theory
-- [ ] [Assessment 2 Information](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 - [ ] [VET Competency](https://classroom.google.com/c/NjkwOTc0MjQ2OTU4/a/NzA1MzI1MzkyNzAx/details)
 #### Practical
 - N/A
