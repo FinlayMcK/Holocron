@@ -221,12 +221,12 @@ ON Customers.customer_id = Orders.customer_id;
 
 **Result:**
 
-|customer_id|customer_name|order_id|product_name|quantity|
-|---|---|---|---|---|
-|1|John Smith|101|Laptop|1|
-|2|Jane Doe|102|Smartphone|2|
-|3|Mark Johnson|103|Tablet|1|
-|NULL|NULL|NULL|NULL|NULL|
+| customer_id | customer_name | order_id | product_name | quantity |
+| ----------- | ------------- | -------- | ------------ | -------- |
+| 1           | John Smith    | 101      | Laptop       | 1        |
+| 2           | Jane Doe      | 102      | Smartphone   | 2        |
+| 3           | Mark Johnson  | 103      | Tablet       | 1        |
+| NULL        | NULL          | NULL     | NULL         | NULL     |
 
 This query returns all rows from both the Customers and Orders tables, even if there are no matching rows. The NULL values represent rows that do not have a match in the other table.
 
