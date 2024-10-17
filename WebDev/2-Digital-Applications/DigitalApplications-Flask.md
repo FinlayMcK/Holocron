@@ -182,7 +182,7 @@ N/A
 
 ![Week 10 VET](https://youtu.be/Q2w5G7AqeYE)
 
-
+![Week 10 Code](https://youtu.be/TfZOR-IkAM4)
 
 #### Class Tasks
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
@@ -202,9 +202,18 @@ N/A
 #### Practical
 N/A
 
-
-### Week 12 - Assessment Due
+### Week 12
  ![[semesterCalendarS2#School Events - Week 12]]
+
+#### Class Tasks
+ - [ ] [Assessment 2](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
+#### Practical
+N/A
+
+### Week 13 - Assessment Due
+ ![[semesterCalendarS2#School Events - Week 13]]
 **Assessment Due**  
 The task will be due Friday 11:59pm.  
 Worth 50%.  
@@ -218,15 +227,7 @@ The task will be posted to Google Classroom, as per normal.
 N/A
 
 
-### Week 13
- ![[semesterCalendarS2#School Events - Week 13]]
 
-#### Class Tasks
- - [ ] Vet Competencies
-#### Theory
-- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
-#### Practical
-N/A
 ### Week 14
  ![[semesterCalendarS2#School Events - Week 14]]
 #### Class Tasks
@@ -272,7 +273,7 @@ N/A
 | ---------------- | ---------------------------------------------------------------------------------- |
 | Google Classroom | Assessment 1 - 25 %                                                                |
 |                  | [Assessment 2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md) - 50 % |
-|                  | Assessment 3 - 25 %                                                                |
+|                  | [Assessment 3](WebDev/2-Digital-Applications/2024S2/assessment3.md) - 25 %         |
 
 
 ![[commonBlocks#Contact Details]]
