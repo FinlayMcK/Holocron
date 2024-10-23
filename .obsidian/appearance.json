@@ -1,11 +1,8 @@
 {
-  "accentColor": "#f5d88a",
-  "cssTheme": "Solotude",
-  "theme": "obsidian",
+  "accentColor": "#027e2d",
+  "cssTheme": "Border",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "holocron"
-  ],
-  "interfaceFontFamily": "Consolas",
-  "textFontFamily": "Consolas",
-  "monospaceFontFamily": "Consolas"
+  ]
 }
