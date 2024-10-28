@@ -68,6 +68,9 @@ Your goal for this section is to prove that you can analyse all the code through
 
 Include a diagram to explain the overall code base (`app.py`, `models.py`, `forms.py`, templates etc). One diagram you could include how `app.py` fits into the larger picture of the structure of a flask project, and the interactions of `app.py` with the other modules in the project.
 
+An example of this image could be similar to:
+
+![[MVC - Code Section.png]]
 
 Pick one route, preferably a complex route, and analyse that one. For example `resumeBuild` (there may be a more suitable option however):
 ![resumeBuildRoute](/WebDev/2-Digital-Applications/2024S2/_images/resumeBuildRoute.png)

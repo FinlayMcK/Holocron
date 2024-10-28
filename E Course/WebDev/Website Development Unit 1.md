@@ -36,3 +36,6 @@ After completing all of the requirements for this Project, complete the followin
 
 ## Project 2
 
+
+### VET Competencies
+After completing all of the requirements for this Project, complete the following VET competencies.

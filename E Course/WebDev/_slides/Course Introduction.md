@@ -24,6 +24,16 @@ note:
 - 5 points for the 2 year course - a 'normal' course only gives you 4 points.
 
 ---
+# Course Structure
+
+**NOT THE FINAL FORM.**
+
+![[Course Overview.png]]
+```md
+<!-- slide bg="red" -->
+## Slide with text based background
+```
+---
 # Contact
 
 ![[contactDetails.png]]
@@ -36,7 +46,7 @@ If you ever need to contact me outside of scheduled classes, don't hesitate to c
 # Development Environment
 
 Code either 
-- **online** (`GitHub Codespaces`) with a chromebook+, or 
+- **online** (`GitHub Codespaces`) with a chromebook
 - **locally** (`VSCode` & `Docker`) with a full OS device.
 
 note:

@@ -49,6 +49,6 @@ When refining the game ready for submission there was an option to use Blender i
 
 ![[_sharedContent/Assessments2024S2/Task 2#Technical Analysis|Task 2]]
 
-
+> [!info] For this assessment, as it's potentially difficult to research the pathfinding algorithm used in Godot, analyse the `A*` algorithm, and then discuss how pathfinding is implemented in the game. See [[Pathfinding]] for more details.
 
 ![[_sharedContent/Assessments2024S2/Task 2#Work Skills|Task 2]]

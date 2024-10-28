@@ -22,16 +22,16 @@ The player health and enemy health values are managed by the respective scripts 
 
 **Summary of the health details:**
 
-|                                        | Player                                                  | Enemy                                                    |
-| -------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| Health script                          | `player.gd`                                             | `enemy.gd`                                               |
-| variable name                          | `player_health`                                         | `health`                                                 |
-| starting value                         | 100                                                     | 100                                                      |
-| Damage taken when hit by enemy bullet  | 10                                                      | X                                                        |
-| Damage taken when hit by player bullet | X                                                       | 50                                                       |
-| Function to take damage                | ![[codeReduceHealth.png]]                    | ![[codeTakeDamage.png]]                     |
+|                                        | Player                                            | Enemy                                             |
+| -------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| Health script                          | `player.gd`                                       | `enemy.gd`                                        |
+| variable name                          | `player_health`                                   | `health`                                          |
+| starting value                         | 100                                               | 100                                               |
+| Damage taken when hit by enemy bullet  | 10                                                | X                                                 |
+| Damage taken when hit by player bullet | X                                                 | 50                                                |
+| Function to take damage                | ![[codeReduceHealth.png]]                         | ![[codeTakeDamage.png]]                           |
 | Code which causes damage to be taken   | From `enemy.gd`<br>![[codePlayerTakesDamage.png]] | from `bullet.gd`<br>![[codeEnemyTakesDamage.png]] |
-|                                        |                                                         |                                                          |
+|                                        |                                                   |                                                   |
 
 Due to the fact that individual enemy instance start with health of 100 and each bullet collision reduces the health by 50, this means in this implementation, the enemies take two shots to kill.
 Due to the fact that each enemy collision with the player instance reduces the players health by 10, this means that the player can collide with 10 enemies before 'dying' and the game is over.

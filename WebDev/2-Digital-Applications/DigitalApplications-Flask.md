@@ -215,6 +215,8 @@ N/A
 
 ### Week 13 - Assessment Due
  ![[semesterCalendarS2#School Events - Week 13]]
+![https://youtu.be/Oof9__xg5UI](https://youtu.be/Oof9__xg5UI)
+
 **Assessment Due**  
 The task will be due Friday 11:59pm.  
 Worth 50%.  
@@ -231,6 +233,7 @@ N/A
 
 ### Week 14
  ![[semesterCalendarS2#School Events - Week 14]]
+![https://youtu.be/4cTeJIScWKs](https://youtu.be/4cTeJIScWKs)
 #### Class Tasks
 N/A
 #### Theory
@@ -239,6 +242,8 @@ N/A
 N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
+![https://youtu.be/yx012Us7-mk](https://youtu.be/yx012Us7-mk)
+
 **Assessment Week**  
 This assessment task is an **in person** interview. Your specific timeslot will be posted to Google Classroom with the assessment.
 
